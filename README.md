@@ -12,7 +12,10 @@
 
  ![에러](https://user-images.githubusercontent.com/69668668/143507351-6f8c327b-5dc5-45b8-b924-90f19ce3eeaf.png)<br>
  
- [Manager]오브젝트의 자식들로 들어있는 3개의 매니저들 중 2개는 DontDestroyOnLoad함수가 존재합니다. 하지만 [Manager]오브젝트는 DontDestroyOnLoad시켜주지 않아 에러가 발생합니다.<br>
+ [Manager]오브젝트의 자식들로 들어있는 3개의 매니저들 중 2개는 DontDestroyOnLoad함수가 존재합니다.<br>
+ 하지만 [Manager]오브젝트는 DontDestroyOnLoad시켜주지 않아 에러가 발생합니다.<br>
+ 
+ ![에러](https://user-images.githubusercontent.com/69668668/143507614-d6ff3bea-7a69-4f30-9c02-c0d4b5230d1d.png)<br>
  
  
  
